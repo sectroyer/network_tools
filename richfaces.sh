@@ -15,7 +15,7 @@ then
 	verbose=true
 fi
 jslist=($(cat "$2"))
-#printgn "1"
+#printgn "1" test
 #printcn "2"
 #printbn "3"
 #printon "4"
